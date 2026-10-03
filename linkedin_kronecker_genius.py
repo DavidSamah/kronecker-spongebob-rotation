@@ -1,12 +1,3 @@
-"""
-
-
-Polished LinkedIn animation:
-- SpongeBob rotates over the Krusty Krab
-- explicit chunked Kronecker-product transform
-- clean mathematical HUD
-- live angle + rotation matrix
-- cinematic 1080x1080 MP4
 
 Required:
     spongebob.png
