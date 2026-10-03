@@ -1,0 +1,16 @@
+# Generated outputs
+*.mp4
+spongebob_rotated.png
+
+# Local media assets
+spongebob.png
+krusty_krab.png
+krusty_krab.jpg
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
