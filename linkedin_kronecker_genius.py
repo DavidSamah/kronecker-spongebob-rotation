@@ -1,5 +1,5 @@
 """
-linkedin_kronecker_genius.py
+
 
 Polished LinkedIn animation:
 - SpongeBob rotates over the Krusty Krab
