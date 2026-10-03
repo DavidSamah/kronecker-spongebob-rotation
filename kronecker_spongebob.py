@@ -1,8 +1,4 @@
-"""
-linkedin_kronecker_spongebob.py
 
-Create a LinkedIn-ready square MP4 of SpongeBob rotating over the Krusty Krab
-using an explicit chunked Kronecker-product rotation.
 
 Required files in the same folder:
     spongebob.png
